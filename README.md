@@ -24,7 +24,6 @@
    - You may find that ERROR "'int' is not callable" kept existing when inputting functions, ignore all of them.
 
 ### Requirements:
-   - You can find the code of this app on https://github.com/Harry-1391453181620/Geometry-Drawer-v0.0.1.
    - The LATEST Python Interpreter is required.
    - Python packages (modules):
      - matplotlib
