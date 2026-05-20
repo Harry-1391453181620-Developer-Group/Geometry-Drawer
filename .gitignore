@@ -1,0 +1,13 @@
+# PyInstaller 编译生成的临时缓存与最终产物
+build/
+dist/
+*.spec
+
+# 所有的可执行文件
+*.exe
+*.pyc
+
+# Python 虚拟环境（如果本地有的话）
+.venv/
+venv/
+ENV/
